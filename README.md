@@ -29,4 +29,4 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT] license.
+Copyright Chimera Project 2020. Code released under the [MIT] license.
